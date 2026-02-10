@@ -1,0 +1,1 @@
+{\n  "name": "rocketleague-unity-project",\n  "version": "1.0.0",\n  "description": "A Unity project for Rocket League mods.",\n  "main": "index.js",\n  "scripts": {\n    "start": "node index.js"\n  },\n  "keywords": ["Unity", "Rocket League", "Gaming"],\n  "author": "Malacos",\n  "license": "ISC"\n}
